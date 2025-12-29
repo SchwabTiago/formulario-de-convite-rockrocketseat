@@ -1,0 +1,36 @@
+.main-container {
+    display: flex;
+    background-color: var(--shape-background);
+}
+
+.main-wrapper {
+    width: 75vw;
+    height: 100vh;
+    background-color: var(--shape-body);
+    border-radius: .5rem;
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.35);
+
+}
+
+.aside-wrapper {
+    width: 25vw;
+    height: 100vh;
+
+    border-radius: .5rem;
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.35);
+
+    background-image: url("../assets/image/Background.png");
+    background-size: cover;
+    background-position: center bottom;
+    background-repeat: no-repeat;
+
+    h1 {
+        font-family: "Leckerli One", cursive;
+        color: var(--accent-fuchsia);
+    }
+
+    p {
+        color: var(--text-heading);
+        font-family: "Open Sans", sans-serif;
+    }
+}
