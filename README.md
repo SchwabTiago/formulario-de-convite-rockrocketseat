@@ -21,4 +21,4 @@ O layout apresenta:
 
 ---
 
-![Formulario de Convite Preview](./assets/image/project-img.png)
+![Formulario de Convite Preview](./assets/images/project-img.png)
